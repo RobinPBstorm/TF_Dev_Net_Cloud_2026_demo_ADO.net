@@ -3,4 +3,8 @@
     <Build />
     <Deploy />
   </Project>
+  <Project Path="Import-DBSlide-DB/Import-DBSlide-DB.sqlproj" Id="2aec7bf5-10b7-414d-be7d-df31e2730c97">
+    <Build />
+    <Deploy />
+  </Project>
 </Solution>
