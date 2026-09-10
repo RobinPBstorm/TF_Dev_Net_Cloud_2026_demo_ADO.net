@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="ECommerce-DB/ECommerce-DB.sqlproj">
+  <Project Path="ECommerce-DB/ECommerce-DB.sqlproj" Id="841495d3-26dc-45eb-9461-610b226c3602">
     <Build />
     <Deploy />
   </Project>
