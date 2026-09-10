@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ECommerce-DB/ECommerce-DB.sqlproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
